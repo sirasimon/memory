@@ -1,0 +1,2 @@
+Info,  T15204: Load models\openglTestScene.obj
+Error, T15204: Unable to open file "models\openglTestScene.obj".
