@@ -147,6 +147,11 @@
   <ItemGroup>
     <ClCompile Include="memory.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="card_render_info.h" />
+    <ClInclude Include="card_value.h" />
+    <ClInclude Include="point.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
