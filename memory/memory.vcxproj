@@ -148,9 +148,9 @@
     <ClCompile Include="memory.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="card_render_info.h" />
-    <ClInclude Include="card_value.h" />
-    <ClInclude Include="point.h" />
+    <ClInclude Include="CardRenderInfo.h" />
+    <ClInclude Include="CardValue.h" />
+    <ClInclude Include="Point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
